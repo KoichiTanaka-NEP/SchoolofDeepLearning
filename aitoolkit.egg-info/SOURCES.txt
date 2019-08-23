@@ -1,0 +1,13 @@
+README.md
+setup.py
+aitoolkit/__init__.py
+aitoolkit/graph_generator.py
+aitoolkit/object_detector.py
+aitoolkit/style_transfer.py
+aitoolkit/training_anime_generator.py
+aitoolkit/utils.py
+aitoolkit.egg-info/PKG-INFO
+aitoolkit.egg-info/SOURCES.txt
+aitoolkit.egg-info/dependency_links.txt
+aitoolkit.egg-info/requires.txt
+aitoolkit.egg-info/top_level.txt
